@@ -9,7 +9,7 @@ import { RoutesLink } from "./routesLink";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "tricky-app-vs-router",
     element: <Layout />,
     errorElement: <ErrorPage />,
     children: [
